@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location_id: 1
+  category: MyString
+  info: MyString
+  day: MyString
+  time: MyString
+  verified: false
+
+two:
+  location_id: 1
+  category: MyString
+  info: MyString
+  day: MyString
+  time: MyString
+  verified: false
