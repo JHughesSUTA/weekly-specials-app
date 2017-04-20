@@ -18,4 +18,14 @@
 # Special.create(category: "play", info: "Karaoke Night", day: "Sunday", location_id: 4)
 # Special.create(category: "play", info: "Amateur Hour", day: "Wednesday", location_id: 2)
 
+Bookmark.create(user_id: 1, special_id: 1)
+Bookmark.create(user_id: 1, special_id: 3)
+Bookmark.create(user_id: 1, special_id: 4)
+Bookmark.create(user_id: 2, special_id: 7)
+Bookmark.create(user_id: 3, special_id: 9)
+Bookmark.create(user_id: 3, special_id: 1)
+Bookmark.create(user_id: 4, special_id: 8)
+Bookmark.create(user_id: 4, special_id: 2)
+
+
 puts "done!"
